@@ -1,0 +1,6 @@
+{
+  "description": "SCSJ3623 Mobile Application Programming\r Semester 2, 2020/2021",
+  "scripts": {
+    "server": "json-server --host http://192.168.0.109:8080 json-server/db.json"
+  }
+}
